@@ -2,6 +2,8 @@
 
 Description: 
 
+Utilisation: XAMPP, PHP, JS, MySQL
+
 - Créer un simulateur de paiement
 - Schema.dia ou svg
 - Authentification: Fetch les données de la table clients à base du id et amount 

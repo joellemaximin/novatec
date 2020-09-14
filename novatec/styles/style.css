@@ -1,0 +1,28 @@
+.form{
+    left: 100px;
+    right: 100px;
+
+}
+
+.button-login{
+    padding: 5px;
+}
+
+.action-login{
+    background-color: blue;
+}
+
+.input01 {
+    display: inline-block;
+}
+
+.form-auth{
+    width: 100%;
+    padding-right: 45px;
+    padding-left: 45px;
+    justify-content: center;
+    background-color: #e9ecef;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+
+}

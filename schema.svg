@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="231 143 612 286" width="381px" height="143px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="54" height="20" x="543" y="231" style="fill:#007;stroke:black;"/>
+   <text width="54" height="20" x="548" y="245" style="fill:#fff;" font-family="Arial" font-size="16px"> clients</text>
+   <rect width="54" height="20" x="543" y="251" style="fill:#aea;stroke:black;"/>
+   <text width="54" height="20" x="548" y="265" style="fill:black;" font-family="Arial" font-size="16px">ID</text>
+   <rect width="93" height="20" x="246" y="158" style="fill:#007;stroke:black;"/>
+   <text width="93" height="20" x="251" y="172" style="fill:#fff;" font-family="Arial" font-size="16px"> transactions</text>
+   <rect width="93" height="20" x="246" y="178" style="fill:#aea;stroke:black;"/>
+   <text width="93" height="20" x="251" y="192" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="93" height="20" x="246" y="198" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="251" y="212" style="fill:black;" font-family="Arial" font-size="16px">statut</text>
+   <rect width="93" height="20" x="246" y="218" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="251" y="232" style="fill:black;" font-family="Arial" font-size="16px">amount</text>
+   <rect width="93" height="20" x="246" y="238" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="251" y="252" style="fill:black;" font-family="Arial" font-size="16px">client_id</text>
+</svg>
